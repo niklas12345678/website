@@ -132,7 +132,7 @@ h2#text
 .sec h2
 {
   font-size: 3.5em;
-  margin-bottom: -8px;
+  margin-bottom: auto;
   color: #fff;
      margin-left: -50px;
         margin-right: -50px
